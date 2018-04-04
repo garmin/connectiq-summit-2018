@@ -1,0 +1,9 @@
+<resources>
+    <bitmap id="Logo" filename="ciqsummit-logo.png" dithering="none">
+        <palette>
+            <color>AAAAAA</color>
+            <color>55AAFF</color>
+            <color>0055FF</color>
+        </palette>
+    </bitmap>
+</resources>
