@@ -162,7 +162,7 @@ class ColorBehaviorDelegate extends WatchUi.BehaviorDelegate {
             return false;
         }
 
-        return mController.switchView(aBehavior, WatchUi.SLIDE_IMMEDIATE);
+        return mController.switchView(aBehavior, "ON_TAP", WatchUi.SLIDE_IMMEDIATE);
     }
 
     //
